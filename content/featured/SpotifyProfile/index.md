@@ -3,7 +3,7 @@ date: '2'
 title: 'NFT-Drop'
 cover: './LensterXMTP.png'
 github: 'https://github.com/AnmolSirola/NFT-Drop'
-external: 'https://nft-drop-eta-eight.vercel.app/'
+external: 'https://nft-drop-nine-sand.vercel.app/'
 tech:
   - Javascript
   - Next.js
