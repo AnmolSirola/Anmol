@@ -60,20 +60,20 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Aayush Giri.</h2>;
-  const three = <h3 className="big-heading">I build things for the Web3.</h3>;
+  const two = <h2 className="big-heading">Anmol Sirola.</h2>;
+  const three = <h3 className="big-heading">I build things for Web3.</h3>;
   const four = (
     <>
       <p>
-        I’m a seasoned blockchain developer specializing in building (and occasionally designing) exceptional
-        digital experiences. With a deep passion for DeFi, Blockchain, and Web3 technologies.
+        I’m a seasoned blockchain developer specializing in building smart contracts. 
+        With a deep passion for DeFi, Blockchain, and Zk technologies.
       </p>
     </>
   );
   const five = (
     <a
       className="email-link"
-      href="https://medium.com/@aayushgiri1234" //blog website link
+      href="https://anmolsirola.hashnode.dev/" //blog website link
       target="_blank"
       rel="noreferrer">
       Check out my blogs!

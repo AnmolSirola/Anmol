@@ -1,15 +1,16 @@
 ---
-date: '2023-07-02'
-title: 'GPT-4 RapidAPI-powered tool for concise article summarization'
-github: 'https://github.com/Giri-Aayush/AI-Summarizer-Sumz'
-external: 'https://main--s3mz.netlify.app/'
+date: '2024-07-02'
+title: 'Rust'
+github: 'https://github.com/AnmolSirola/Rust-Bootcamp'
+external: ''
 tech:
-  - ReactJS
-  - Javascript
-  - Rapid-API
-  - Redux
+  - Rust
+
 company: 'Project To Learn AI-APIs'
 showInProjects: true
 ---
 
-Unleashing the Power of Concise Knowledge, Simplifying the Way You Read for Effortless Understanding. An open-source article summarizer that transforms lengthy articles into clear and concise summaries.
+My journey of learning rust and using it to make scalable projects. At the same time using it to write smart contracts on Solana 
+and soroban
+
+

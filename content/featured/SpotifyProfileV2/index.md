@@ -1,16 +1,17 @@
 ---
 date: '3'
-title: 'Warp - Secure File Sharing'
+title: 'NFT-Toolbox'
 cover: './Warp.png'
 external: ''
-cta: 'https://github.com/Giri-Aayush'
+cta: 'https://github.com/AnmolSirola/NFT-Toolbox-c2siorg'
 tech:
-  - React
-  - IPFS
-  - Tableland Protocol
+  - TypeScript
+  - Node.js
+  - Solidity
+  - Rust
+  - Move
 ---
 
-Warp is a secured file sharing Platform built on top of Web3.storage which lets users to Upload file to decentralised storage of IPFS, User has to put Wallet Address of the receipient which will be the only one who can access this file. The download link for this files are then shared to the receiver's Mail ID.
+An npm package for seamless integration of all NFT related functionalities in Web2 projects.
 
-The user data is stored to Tableland Database which lets the user to share data with the least cost possible.
-Keep a look on my Github for further updates of this project.
+I am adding multi-chain support like Solana and Aptos also adding more ERC's support for these chains. At the same time adding on-chain and off-chain algorithms for super fast batch minting of NFT.

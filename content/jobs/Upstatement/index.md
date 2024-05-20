@@ -1,12 +1,13 @@
 ---
 date: '2022-06-01'
-title: 'Blockchain Research Intern'
-company: 'Indian Institute Of Technology (ISM)'
-location: 'Dhanbad, Jharkhand'
-range: 'June - August 2022'
-url: 'https://cse.iitism.ac.in/'
+title: 'Blockchain Developer Intern'
+company: 'WEU Foundation'
+location: 'Remote'
+range: 'Nov 2022 - April 2023'
+url: 'https://www.weu.foundation/'
 ---
 
-- Model designed and researched cold chain systems and developed a framework that solves a known trust problem in the existing COVID-19 vaccine *supply chain*.
-- Developed solidity smart contracts involving functions with the system actors forming a tamper-free, data redundant, credential issuance and verification backend.
-- Created **GUI** using react, HTML and CSS for the backend to make the project user accessible.
+-  Improved front-end of the project using React, enhancing user experience and interface design.
+-  Created ERC-721 tokens and soul bond token IDs for foundation employees, enabling unique digital assets and fostering engagement.
+- Wrote test scripts for smart contracts and deployment scripts, ensuring robustness and reliability of the project.
+-  Utilized skills in Tailwind CSS, React, Solidity, Hardhat, and JavaScript to implement enhancements and optimizations.

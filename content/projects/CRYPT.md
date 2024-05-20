@@ -1,15 +1,12 @@
 ---
-date: '2021-12-25'
-title: 'CRYPT- Send Crypto Across The World'
-github: 'https://github.com/Giri-Aayush/Crypt-Send'
+date: '2024-12-25'
+title: 'Move-Development'
+github: 'https://github.com/AnmolSirola/Move-Development'
 external: ''
 tech:
-  - Solidity
-  - Javascript
-  - HTML
-  - CSS
+  - Move
 company: 'Project To Learn Transactions On DApp'
 showInProjects: true
 ---
 
-The transactions which take place through the platform can be backtracked with the integration of Etherscan's with the web application.
+Using move to develop smart contract on Aptos and SUI.

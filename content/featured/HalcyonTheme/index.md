@@ -1,15 +1,17 @@
 ---
 date: '1'
-title: 'DropChain'
+title: 'NFT-MarketPlace'
 cover: './DropChain.png'
-github: 'https://github.com/Giri-Aayush/DropChain-BlockChain'
+github: 'https://github.com/AnmolSirola/NFT-Market-Place'
 external: ''
 tech:
   - IPFS
   - React
-  - Ganache
+  - Hardhat
   - Solidity
   - Javascript
 ---
 
-This project is a decentralized file storage system management application that runs in the blockchain and uses [interplanetary file system](https://github.com/ipfs/ipfs) . We'll develop smart contracts that store the location of these files and put them on [local blockchain](https://trufflesuite.com/ganache/), allowing the user to view, upload and download files from [DropChain](https://github.com/Giri-Aayush/DropChain-BlockChain).
+This project is a decentralized An NFT-MarketPlace where people can list and sell their NFT’s, they can write a description for the nft and set it’s price. The uploaded NFT is stored using [IPFS](https://github.com/ipfs/ipfs). 
+
+Lumos BuidL Hackathon: 2nd place winner for Polygon NFT-Track . 

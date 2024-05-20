@@ -1,26 +1,19 @@
 module.exports = {
-  email: 'aayushgiri1234@gmail.com',
+  email: 'anmolsirola57@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/Giri-Aayush',
+      url: 'https://github.com/AnmolSirola',
     },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/_aayush_giri_/',
-    },
+
     {
       name: 'Twitter',
-      url: 'https://twitter.com/AayushG57674632',
+      url: 'https://x.com/AnmolSirola',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/aayush-giri/',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://dev.to/aayush_giri',
+      url: 'https://www.linkedin.com/in/anmol-sirola-2b5274224/',
     },
   ],
 

@@ -2,12 +2,12 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-   title: 'Aayush Giri',
+   title: 'Anmol Sirola',
     description:
-      'I’m a blockchain developer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m focused on building accessible, human-centered products on blockchain protocols.',
-    siteUrl: 'https://aayush-giri.vercel.app', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@AayushG57674632',
+      'I’m a seasoned blockchain developer specializing in building smart contracts. With a deep passion for DeFi, Blockchain, and Zk technologies.',
+    siteUrl: '', // No trailing slash allowed!
+    image: '/anmol.png', // Path to your image you placed in the 'static' folder
+    twitterUsername: '@AnmolSirola',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'AayushGiri',
-        short_name: 'AayushGiri',
+        name: 'Anmol Sirola',
+        short_name: 'AnmolSirola',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
@@ -156,4 +156,5 @@ module.exports = {
       },
     },
   ],
-};
+
+}
