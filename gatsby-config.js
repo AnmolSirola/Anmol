@@ -5,7 +5,7 @@ module.exports = {
    title: 'Anmol Sirola',
     description:
       'I’m a seasoned blockchain developer specializing in building smart contracts. With a deep passion for DeFi, Blockchain, and Zk technologies.',
-    siteUrl: '', // No trailing slash allowed!
+    siteUrl: 'https://www.linkedin.com/in/anmol-sirola-2b5274224', // No trailing slash allowed!
     image: '/anmol.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@AnmolSirola',
   },
